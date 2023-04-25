@@ -4,6 +4,9 @@
 The package is under development, if you want to contribute please fork the project and submit a pull request to the dev branch. 
 The master branch contains the current release version, please do not pull request to that, otherwise it will be denied.
 
+## About:
+This package contains function with which one can simulate the behaviour of adaptive learning systems, and can analyse exsisting datasets coming from adaptive learning systesms. The focus of the package is the Urnings algorithm, and its variants for response time and multidimensional data, but it also includes wrappers for the Elo rating system(?).
+
 ## Package structure:
 Users going to only interact with high level wrapper functions. In case you want to contribute please follow the following structure.
 
