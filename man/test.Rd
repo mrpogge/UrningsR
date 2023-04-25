@@ -2,10 +2,10 @@
 % Please edit documentation in R/main.R
 \name{test}
 \alias{test}
-\title{This function tests whether documentation works}
+\title{This function tests whether the setup works}
 \usage{
 test()
 }
 \description{
-This function tests whether documentation works
+This function tests whether the setup works
 }
