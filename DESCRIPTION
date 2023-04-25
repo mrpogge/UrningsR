@@ -4,7 +4,7 @@ Version: 0.0.0.1
 Authors@R: 
     person("Bence", "Gergely", , "gergely.bence98@outlook.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This package contains function with which one can simulate the behaviour of adaptive learning systems, and can analyse exsisting datasets coming from adaptive learning systesms. The focus of the package is the Urnings algorithm, and its variants for response time and multidimensional data, but it also includes wrappers for the Elo rating system.
+Description: This package contains functions with which one can simulate the behaviour of adaptive learning systems, and can analyse exsisting datasets coming from adaptive learning systesms. The focus of the package is the Urnings algorithm, and its variants for response time and multidimensional data, but it also includes wrappers for the Elo rating system.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
