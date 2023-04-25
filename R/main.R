@@ -1,7 +1,8 @@
-#' This function tests whether documentation works
+source("./R/utils/utils.R")
+#' This function tests whether the setup works
 #'
 #'
 #' @export
 test = function(){
-  print("It works!")
+  return(test_sourcing())
 }

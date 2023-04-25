@@ -1,0 +1,13 @@
+getwd()
+setwd("/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsR_package/UrningsR")
+getwd()
+devtools:load_all()
+library(devtools)
+devtools:load_all()
+load_all()
+?test
+?urningsR
+?test
+load_all()
+?test
+?urningsR
