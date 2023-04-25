@@ -1,12 +1,11 @@
-Package: UrningsR
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Package: urningsR
+Title: Simulation and data analysis using algorithms for adaptive learning systems
+Version: 0.0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Bence", "Gergely", , "gergely.bence98@outlook.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: This package contains function with which one can simulate the behaviour of adaptive learning systems, and can analyse exsisting datasets coming from adaptive learning systesms. The focus of the package is the Urnings algorithm, and its variants for response time and multidimensional data, but it also includes wrappers for the Elo rating system.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
