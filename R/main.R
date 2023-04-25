@@ -1,4 +1,4 @@
-source("./R/utils/utils.R")
+source("./R/utils.R")
 #' This function tests whether the setup works
 #'
 #'
