@@ -7,6 +7,13 @@ The master branch contains the current release version, please do not pull reque
 ## About:
 This package contains function with which one can simulate the behaviour of adaptive learning systems, and can analyse exsisting datasets coming from adaptive learning systesms. The focus of the package is the Urnings algorithm, and its variants for response time and multidimensional data, but it also includes wrappers for the Elo rating system(?).
 
+For details see.
+- Bolsinova, M., Brinkhuis, M. J., Hofman, A. D., & Maris, G. (2022). Tracking a multitude of abilities as they develop. British Journal of Mathematical and Statistical Psychology, 75(3), 753-778.
+- Bolsinova, M., Maris, G., Hofman, A. D., van der Maas, H. L., & Brinkhuis, M. J. (2022). Urnings: A new method for tracking dynamically changing parameters in paired comparison systems. Journal of the Royal Statistical Society. Series C: Applied Statistics, 71(1), 91-118.
+- Deonovic, B., Bolsinova, M., Bechger, T., & Maris, G. (2020). A Rasch model and rating system for continuous responses collected in large-scale learning systems. Frontiers in psychology, 11, 500039.
+- Gergely, B., van der Maas, H. L., Maris, G., Bolsinova, M. (2023). Warming up the Cold Start: Adaptive step size methods for the Urnings algorithm, in press
+
+
 ## Package structure:
 Users going to only interact with high level wrapper functions. In case you want to contribute please follow the following structure.
 
