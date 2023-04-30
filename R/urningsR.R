@@ -16,7 +16,7 @@
 #'
 #' \emph{mv_urnings_game_sim}:sets the simulation environment for multidimensional Urnings
 #'
-#' \emph{play}: executes the simulation
+#' \emph{simulate}: executes the simulation
 #'
 #' @section Data analysis methods:
 #'
